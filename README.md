@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a Python developer with experience in:<br><br>🤖 Building asynchronous Telegram bots with diverse functionalities.<br>🖥️ Creating desktop applications using Tkinter.<br>🛠️ Developing efficient data parsers.<br><br>I’m always looking to enhance my skills and build solutions that make tasks simpler and more effective. Feel free to check out my projects here on GitHub or reach out!<br><br>
+👋 Hi there! I’m a Python developer with experience in:<br><br>🤖 Building asynchronous Telegram bots with diverse functionalities.<br>🖥️ Creating desktop applications.<br>🛠️ Developing efficient data parsers.<br><br>I’m always looking to enhance my skills and build solutions that make tasks simpler and more effective. Feel free to check out my projects here on GitHub or reach out!<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) 

@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=Telegram&logoColor=white)]((https://t.me/habsecurity))
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=Telegram&logoColor=white)](https://t.me/habsecurity/https://t.me/habsecurity/) 
 [![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)]([https://mailto:ancobgmnt@gmail/](https://mailto:ancobgmnt@gmail.com/))  
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
